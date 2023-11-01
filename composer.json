@@ -8,6 +8,9 @@
     "laravel"
   ],
   "license": "MIT",
+   "repositories": [
+        { "type": "vcs", "url": "https://github.com/okrulik/php-phantomjs" }
+    ],
   "support": {
     "issues": "https://github.com/MrJoshLab/laravel-phantomjs/issues",
     "source": "https://github.com/MrJoshLab/laravel-phantomjs"
