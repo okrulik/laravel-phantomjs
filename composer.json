@@ -1,5 +1,5 @@
 {
-  "name": "josh/laravel-phantomjs",
+  "name": "okrulik/laravel-phantomjs",
   "description": "Use phantom-js in laravel",
   "keywords": [
     "phantomjs-php",
